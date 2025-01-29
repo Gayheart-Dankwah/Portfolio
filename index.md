@@ -7,7 +7,7 @@ I am a recent Actuarial Science graduate from the University of Ghana. Intereste
 * Visualization: Matplotlib, Seaborn
 
 ## Projects
-* [Project 1](https://github.com/your-username/project-1)
+* [Project 1](https://github.com/Gayheart-Dankwah/Machine-Learning-Project)
 
 ```
 
@@ -16,5 +16,5 @@ I am a recent Actuarial Science graduate from the University of Ghana. Intereste
 | Platform | Link |
 |-----------|------|
 | LinkedIn  | [https://www.linkedin.com/in/your-username](https://www.linkedin.com/in/your-username) |
-| GitHub     | [https://github.com/your-username](https://github.com/your-username) |
+| GitHub     | [https://github.com/Gayheart-Dankwah](https://github.com/Gayheart-Dankwah) |
 ```
