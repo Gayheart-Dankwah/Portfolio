@@ -15,6 +15,6 @@ I'm a recent Actuarial Science graduate from the University of Ghana. I am inter
 ## Connect with Me
 | Platform | Link |
 |-----------|------|
-| LinkedIn  | [https://www.linkedin.com/in/your-username](https://www.linkedin.com/in/your-username) |
+| LinkedIn  | [https://www.linkedin.com/in/gayheart-dankwah-9525451a8/](https://www.linkedin.com/in/gayheart-dankwah-9525451a8/) |
 | GitHub     | [https://github.com/Gayheart-Dankwah](https://github.com/Gayheart-Dankwah) |
 ```
