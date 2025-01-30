@@ -7,6 +7,7 @@ I'm a recent Actuarial Science graduate from the University of Ghana. I am inter
 * Visualization: Matplotlib, Seaborn
 
 ## Projects
+![Food Security](blog-food-security2.png)
 * [Project 1](https://github.com/Gayheart-Dankwah/Machine-Learning-Project)
 
 ```
