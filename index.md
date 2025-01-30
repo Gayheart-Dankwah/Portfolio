@@ -9,6 +9,7 @@ I'm a recent Actuarial Science graduate from the University of Ghana. I am inter
 ## Projects
 ![Food Security](blog-food-security2.png)
 * [Food Security Prediction](https://github.com/Gayheart-Dankwah/Machine-Learning-Project)
+![Sticker Sales](cute-stickers-heart-flower-star-more_123891-161446.jpg)
 * [Forcasting Sticker Sales](https://github.com/Gayheart-Dankwah/Forcasting-Sticker-Sales)
 ```
 
